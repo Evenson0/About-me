@@ -1,5 +1,5 @@
 <p align="center">
-	<a href="https://github.com/Evenson0/About-me"><img src="https://www.canva.com/design/DAGWYzPDxRE/6r14x2f8xkfhqBQ9Ns0NVw/edit?utm_content=DAGWYzPDxRE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" width="100%"></a>
+	<a href="https://github.com/Evenson0/About-me"><img src="assets/Votre texte de paragraphe.jpg" width="100%"></a>
 </p>
 
 <br>
