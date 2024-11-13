@@ -22,7 +22,7 @@ For more information, please refer to my **<a href="https://github.com/Evenson0/
 # 📭 Contact
 
 <p align="center">
-	<a href="www.linkedin.com/in/evenson-auguste">
+	<a href="https://www.linkedin.com/in/evenson-auguste/">
 		<img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 	</a>
 </p>
