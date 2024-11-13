@@ -35,6 +35,8 @@ For more information, please refer to my **<a href="https://github.com/Evenson0/
 
 This project is inspired by the work of Geyer, focusing on exploring Markov Chain Monte Carlo (MCMC) algorithms. We examine these algorithms even in cases with missing data, providing insights into handling incomplete datasets effectively. A key aspect of this project is demonstrating the convergence of the estimated maximum likelihood to the true maximum likelihood, highlighting the robustness of MCMC methods in complex statistical modeling.
 
+### Supervisor : Gabriel Fortin-Leblanc
+
 <p align="center">
 	<a href="https://github.com/Evenson0"><img src="assets/IMG_0364.HEIC" width="500"></a>
 </p>
