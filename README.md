@@ -38,5 +38,5 @@ This project is inspired by the work of Geyer, focusing on exploring Markov Chai
 ### Supervisor : Gabriel Fortin-Leblanc
 
 <p align="center">
-	<a href="https://github.com/Evenson0"><img src="assets/IMG_0364.HEIC" width="500"></a>
+	<a href="[https://github.com/Evenson0](https://github.com/Evenson0/Convergence-of-Monte-Carlo-Maximum-Likelihood-Calculations/blob/main/MCMC_Convergence.md)"><img src="assets/IMG_0364.HEIC" width="500"></a>
 </p>
