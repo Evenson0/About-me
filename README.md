@@ -38,7 +38,7 @@ This project is inspired by the work of Geyer, focusing on exploring Markov Chai
 ### Supervisor : Gabriel Fortin-Leblanc
 
 <p align="center">
-	<a href="https://github.com/Evenson0/Convergence-of-Monte-Carlo-Maximum-Likelihood-Calculations/blob/main/MCMC_Convergence.pdf"><img src="assets/IMG_0364.HEIC" width="500"></a>
+	<a href="https://github.com/Evenson0/Convergence-of-Monte-Carlo-Maximum-Likelihood-Calculations/blob/main/MCMC_Convergence.pdf"><img src="assets/Metropolis_algorithm_convergence_example.png" width="500"></a>
 </p>
 
 ## [📘 Financial Mathematics *(2025 – ongoing)*](https://github.com/Evenson0/Financial-Mathematics)
@@ -49,7 +49,7 @@ The course is structured in **R Markdown** (`.Rmd`) and compiled into **PDF** fo
 Topics range from simple and compound interest to annuities, bonds, and loan amortization, with an emphasis on clarity and rigor.
 
 <p align="center">
-	<a href="https://github.com/Evenson0/Financial-Mathematics"><img src="assets/financial_math.jpg" width="500"></a>
+	<a href="https://github.com/Evenson0/Financial-Mathematics"><img src="assets/financial_math.webp" width="500"></a>
 </p>
 
 
