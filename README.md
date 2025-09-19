@@ -49,7 +49,7 @@ The course is structured in **R Markdown** (`.Rmd`) and compiled into **PDF** fo
 Topics range from simple and compound interest to annuities, bonds, and loan amortization, with an emphasis on clarity and rigor.
 
 <p align="center">
-	<a href="https://github.com/Evenson0/Financial-Mathematics"><img src="assets/financial_math.jpg" width="500"></a>
+	<a href="https://github.com/Evenson0/Financial-Mathematics"><img src="assets/financial_math.jpeg" width="500"></a>
 </p>
 
 
@@ -65,6 +65,6 @@ It is designed as both a **personal exploration** and a **collaborative project*
 The repository mixes **theory** and **practice**, with content in **Python (algorithms, models)** and **R (statistics, probability)**, complemented by structured notes in PDF.
 
 <p align="center">
-	<a href="https://github.com/Evenson0/MathHub"><img src="assets/mathhub.jpg" width="500"></a>
+	<a href="https://github.com/Evenson0/MathHub"><img src="assets/mathhub.jpeg" width="500"></a>
 </p>
 
