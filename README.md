@@ -40,3 +40,31 @@ This project is inspired by the work of Geyer, focusing on exploring Markov Chai
 <p align="center">
 	<a href="https://github.com/Evenson0/Convergence-of-Monte-Carlo-Maximum-Likelihood-Calculations/blob/main/MCMC_Convergence.pdf"><img src="assets/IMG_0364.HEIC" width="500"></a>
 </p>
+
+## [📘 Financial Mathematics *(2025 – ongoing)*](https://github.com/Evenson0/Financial-Mathematics)
+
+This project is a **course in financial mathematics**, written and updated progressively.  
+It includes **lecture notes, demonstrations, examples, exercises, and R code**.  
+The course is structured in **R Markdown** (`.Rmd`) and compiled into **PDF** for easy reading.  
+Topics range from simple and compound interest to annuities, bonds, and loan amortization, with an emphasis on clarity and rigor.
+
+<p align="center">
+	<a href="https://github.com/Evenson0/Financial-Mathematics"><img src="assets/financial_math.jpg" width="500"></a>
+</p>
+
+
+## [🔢 MathHub *(2025 – ongoing)*](https://github.com/Evenson0/MathHub)
+
+MathHub is an **open mathematical archive** — a collection of **proofs, conjectures, problems, algorithms, and applications**.  
+It is designed as both a **personal exploration** and a **collaborative project**, covering diverse areas:  
+- Pure mathematics (number theory, analysis, algebra)  
+- Problem-solving (Putnam-style, Olympiad problems)  
+- Algorithms (Euclidean algorithm, Monte Carlo, optimization)  
+- Applied mathematics (finance, statistics, probability models)  
+
+The repository mixes **theory** and **practice**, with content in **Python (algorithms, models)** and **R (statistics, probability)**, complemented by structured notes in PDF.
+
+<p align="center">
+	<a href="https://github.com/Evenson0/MathHub"><img src="assets/mathhub.jpg" width="500"></a>
+</p>
+
