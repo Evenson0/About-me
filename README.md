@@ -65,6 +65,6 @@ It is designed as both a **personal exploration** and a **collaborative project*
 The repository mixes **theory** and **practice**, with content in **Python (algorithms, models)** and **R (statistics, probability)**, complemented by structured notes in PDF.
 
 <p align="center">
-	<a href="https://github.com/Evenson0/MathHub"><img src="assets/mathhub.png" width="500"></a>
+	<a href="https://github.com/Evenson0/MathHub"><img src="assets/math-hub.png" width="500"></a>
 </p>
 
